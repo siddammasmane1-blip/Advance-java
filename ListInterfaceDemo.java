@@ -2,8 +2,7 @@
 specified position ( 2 nd ) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
 2. Write a Java program to iterate a linked list in reverse order (using
 objlist.descendingIterator())
-3. Write a Java program to insert the specified element at the end of a linked list.( using
-l_listobj.offerLast(&quot;Pink&quot;))
+
 4. Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
